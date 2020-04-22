@@ -17,3 +17,5 @@ Setting up the ngrok server:
 
 
 I included two python programs, one which should reply with the most recent line of the serial port, and another which replies with a generic message for testing purposes
+
+See https://www.twilio.com/docs/sms/tutorials/how-to-receive-and-reply-python or https://www.twilio.com/blog/2016/09/how-to-receive-and-respond-to-a-text-message-with-python-flask-and-twilio.html for more information
